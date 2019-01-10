@@ -1,4 +1,6 @@
-# Amazon_Review_Analysis
+# Amazon_Review_Analysis 
+
+WEKA & LIWC are text analyzer
 
 Detecting fake reviewers on online sites -
 
